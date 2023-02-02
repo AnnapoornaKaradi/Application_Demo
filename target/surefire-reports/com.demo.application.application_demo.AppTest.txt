@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.demo.application.application_demo.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.019 s <<< FAILURE! - in com.demo.application.application_demo.AppTest
+com.demo.application.application_demo.AppTest.shouldAnswerWithTrue  Time elapsed: 0.006 s  <<< ERROR!
+org.junit.jupiter.api.extension.ParameterResolutionException: No ParameterResolver registered for parameter [java.lang.String arg0] in constructor [public com.demo.application.application_demo.AppTest(java.lang.String)].
+
